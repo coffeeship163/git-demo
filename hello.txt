@@ -5,7 +5,7 @@ hello coffeeship! hello git!
 hello coffeeship! hello git!
 hello coffeeship! hello git!
 hello coffeeship! hello git!
-hello coffeeship! hello git!
+hello coffeeship! hello git! hot-fix test
 hello coffeeship! hello git!
 hello coffeeship! hello git!
 hello coffeeship! hello git!
